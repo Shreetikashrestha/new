@@ -11,35 +11,35 @@ const services = [
     title: "Waxing",
     description:
       "Experience smooth skin with our professional waxing services.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739426540/waxing-1_lthdfm.png",
   },
   {
     id: 2,
     title: "Laser Hair Removal",
     description:
       "Achieve long-lasting results with our advanced laser hair removal technology.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739426606/benefitsoflaserhairremoval_wwcmfc.jpg",
   },
   {
     id: 3,
     title: "Threading",
     description:
       "Precise hair removal for eyebrows and facial hair, ensuring a clean look.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739426670/Threading-1_fvmivy.png",
   },
   {
     id: 4,
     title: "Sugaring",
     description:
       "A natural alternative to waxing, gentle on the skin and effective for hair removal.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739426657/natural-sugaring-products-for-gentle-hair-removal-1-800px1200px_1e0953df-8a6b-44f0-ba05-cab9059914da_cenvin.jpg",
   },
   {
     id: 5,
     title: "Body Shaving",
     description:
       "Get a clean and smooth finish with our professional body shaving services.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739426691/Body_Shaving_Blog_Featured_Image_dhwk4w.jpg",
   },
 ];
 

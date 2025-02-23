@@ -17,26 +17,26 @@ const services = [
     id: 2,
     title: "Hair Coloring",
     description: "Subtle highlights to bold color changes for a vibrant look.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739423730/low-maintenance-hair-colors-v0-k4at14idlf1d1_mvscxj.jpg",
   },
   {
     id: 3,
     title: "Hair Treatments",
     description:
       "Nourishing treatments from deep conditioning to keratin treatments.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739424003/Keratin-Hair-Treatment-_wcfcez.jpg",
   },
   {
     id: 4,
     title: "Blowouts",
     description: "Smooth, voluminous finish for a polished look.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739423836/HEATFREEHAIR-BLOWOUT-WEFTED-HAIR-02_7eb7db1c-69e1-4303-b03b-a7256ab028cd_mfohzo.jpg",
   },
   {
     id: 5,
     title: "Updos & Styling",
     description: "Elegant updos and stylish braids for any occasion.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739423803/Advanced-Bridal-Hairstyling-Course-Bangalore_l5fpgy.jpg",
   },
 ];
 
