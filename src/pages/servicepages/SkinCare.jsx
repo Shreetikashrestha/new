@@ -18,28 +18,28 @@ const services = [
     title: "Chemical Peel",
     description:
       "Improve skin texture and tone with our professional chemical peel services, tailored to your skin type.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428134/Everything_You_Need_to_Know_about_Chemical_Peels_SLMD_Skincare_f_zevick.jpg",
   },
   {
     id: 3,
     title: "Hydrating Mask",
     description:
       "Restore moisture and vitality to your skin with our deeply hydrating masks, suitable for all skin types.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428151/luminous-hydrating-sheet-mask-3_f7bxzs.jpg",
   },
   {
     id: 4,
     title: "Acne Treatment",
     description:
       "Target and treat acne with our specialized treatments designed to clear and prevent breakouts.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428167/acne-treatment-tips_gfi4ga.jpg",
   },
   {
     id: 5,
     title: "Anti-Aging Treatment",
     description:
       "Combat signs of aging with our advanced anti-aging treatments that promote collagen production and skin elasticity.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428184/What-is-Anti-Aging_nni2a6.png",
   },
 ];
 
