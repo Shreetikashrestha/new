@@ -26,7 +26,7 @@ const services = [
     title: "Swedish Massage",
     description:
       "Relax and unwind with our Swedish massage, designed to relieve tension and promote relaxation throughout the body.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428282/GettyImages-1175433234-034014dc5b9c45edaeaf04c7b80ceafc_btcilf.jpg",
     duration: "60 mins",
     price: "$85",
   },
@@ -35,7 +35,7 @@ const services = [
     title: "Deep Tissue Massage",
     description:
       "Target deeper layers of muscle and connective tissue with our deep tissue massage, perfect for chronic pain relief.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428318/deep-tissue-massage-on-back_qou7yl.jpg",
     duration: "75 mins",
     price: "$95",
   },
@@ -44,7 +44,7 @@ const services = [
     title: "Hot Stone Massage",
     description:
       "Experience the soothing warmth of heated stones combined with massage techniques to melt away tension and stress.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428295/hot-stone-massage-sutherland-house-1024x768_aod9zi.jpg",
     duration: "90 mins",
     price: "$110",
   },
@@ -54,7 +54,7 @@ const services = [
     description:
       "Indulge in a luxurious facial treatment that cleanses, exfoliates, and hydrates your skin for a radiant glow.",
     image:
-      "https://res.cloudinary.com/duaz5kg1m/image/upload/v1739359898/makeupartist_yoxqii.png",
+      "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428332/woman-face-spa-facial-hydrafacial-microderm_zu47nf.jpg",
     duration: "60 mins",
     price: "$75",
   },
@@ -63,7 +63,7 @@ const services = [
     title: "Body Scrub",
     description:
       "Revitalize your skin with our invigorating body scrub, removing dead skin cells and leaving your skin smooth and refreshed.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428354/bamboo-lemongrass-body-scrub-3_pdp-model_lh9pk0.jpg",
     duration: "45 mins",
     price: "$65",
   },
