@@ -11,7 +11,7 @@ const services = [
     title: "Facial Treatment",
     description:
       "Rejuvenate your skin with our customized facial treatments designed to cleanse, exfoliate, and hydrate.",
-    image: "/api/placeholder/400/300",
+    image: "https://res.cloudinary.com/dawklhf0q/image/upload/v1739428122/Facials_Spa-01_bamv4i.jpg",
   },
   {
     id: 2,
